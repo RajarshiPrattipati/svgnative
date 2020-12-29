@@ -1,4 +1,4 @@
-# [Icons Example](https://docs.expo.io/versions/latest/guides/icons/)
+
 
 <p>
   <!-- iOS -->
@@ -9,35 +9,14 @@
   <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
 </p>
 
-The package `@expo/vector-icons` enables you to use most popular icon sets in a universal app. For more information please refer to the docs: [Expo Icons](https://docs.expo.io/versions/latest/guides/icons/).
-
 ## 🚀 How to use
 
-#### Creating a new project**
+yarn install
 
-- Install the CLI: `npm i -g expo-cli`
-- Create a project: `expo init `
-- `cd` into the project
+yarn start
 
-### Using Icons
 
-- Install the package:
- ```sh
- expo install @expo/vector-icons
- ```
-- Import the fonts you want to use
-```js
-import {
-  FontAwesome,
-  AntDesign,
-  Entypo,
-  EvilIcons,
-  Feather,
-  FontAwesome
-} from '@expo/vector-icons';
-```
+From expo CLI, scan QR code
+
 
 ## 📝 Notes
-
-- [Icon directory](https://expo.github.io/vector-icons/)
-- [`@expo/vector-icons` documentation](https://docs.expo.io/versions/latest/guides/icons/)
